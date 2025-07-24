@@ -1,6 +1,4 @@
-
-# Tx-Notifier bot for Telegram
-
+# Transaction Notifier (TRC20 USDT)
 ## Description
 
 This bot is dedicated to tracking the transactions taking place with certain crypto wallets. 
